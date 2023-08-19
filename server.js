@@ -4,7 +4,7 @@ const app = express()
 //Declaring Routes - to run this app on my browser
 
 app.get('/', (req, res) => {
-    res.send('Restful CRUD API')
+    res.send('My Node API')
 })
 
 
